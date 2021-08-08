@@ -1,0 +1,19 @@
+<!doctype html>
+	<html>
+	<head>
+		<title>Welcome</title>
+		<link rel="stylesheet" type="text/css" href="openingpage.css">
+	</head>
+<H1>
+	Welcome! to Saliana Rosenfield Photography
+</H1>
+	<nav>
+            <ul>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Gallery</a></li>
+                <li><a href="#">Submit a form</a></li>
+                <li><a href="#">Social Media</a></li>
+            </ul>
+<img src="nyc.jpg" alt="NYCfilm">
+	</body>
+	   <body>
